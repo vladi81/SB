@@ -1,0 +1,54 @@
+0.jpg: 54 person instances, 1 sea segments
+0.jpg: there is a person in the sea
+1.jpg: 53 person instances, 1 sea segments
+1.jpg: there is a person in the sea
+10.jpg: 0 person instances, 1 sea segments
+10.jpg: there is no person in the sea
+11.jpg: 4 person instances, 1 sea segments
+11.jpg: there is no person in the sea
+12.jpg: 10 person instances, 1 sea segments
+12.jpg: there is a person in the sea
+13.jpg: 3 person instances, 1 sea segments
+13.jpg: there is no person in the sea
+14.jpg: 14 person instances, 1 sea segments
+14.jpg: there is a person in the sea
+15.jpg: 2 person instances, 1 sea segments
+15.jpg: there is a person in the sea
+16.jpg: 4 person instances, 1 sea segments
+16.jpg: there is no person in the sea
+17.jpg: 41 person instances, 1 sea segments
+17.jpg: there is a person in the sea
+18.jpg: 4 person instances, 1 sea segments
+18.jpg: there is a person in the sea
+19.jpg: 4 person instances, 1 sea segments
+19.jpg: there is a person in the sea
+2.jpg: 3 person instances, 1 sea segments
+2.jpg: there is a person in the sea
+20.jpg: 11 person instances, 2 sea segments
+20.jpg: there is a person in the sea
+21.jpg: 0 person instances, 1 sea segments
+21.jpg: there is no person in the sea
+22.jpg: 0 person instances, 0 sea segments
+22.jpg: there is no person in the sea
+23.jpg: 0 person instances, 1 sea segments
+23.jpg: there is no person in the sea
+24.jpg: 3 person instances, 1 sea segments
+24.jpg: there is a person in the sea
+25.jpg: 0 person instances, 2 sea segments
+25.jpg: there is no person in the sea
+3.jpg: 0 person instances, 1 sea segments
+3.jpg: there is no person in the sea
+4.jpg: 3 person instances, 0 sea segments
+4.jpg: sky reflection in the sea
+4.jpg: there is a person in the sea
+5.jpg: 2 person instances, 1 sea segments
+5.jpg: sky reflection in the sea
+5.jpg: there is a person in the sea
+6.jpg: 10 person instances, 1 sea segments
+6.jpg: there is a person in the sea
+7.jpg: 26 person instances, 1 sea segments
+7.jpg: there is a person in the sea
+8.jpg: 0 person instances, 1 sea segments
+8.jpg: there is no person in the sea
+9.jpg: 0 person instances, 1 sea segments
+9.jpg: there is no person in the sea
