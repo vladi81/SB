@@ -5,9 +5,9 @@ python3 -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
 Run task1.py  
 
 The input dataset is at ./data  
-Images with person in the sea are copied to ./out_data_with
+Images with person in the sea are copied to ./out_data_with  
 Images without person in the sea are copied to ./out_data_without  
-In addition, ./viz_data is created with vizualization of person detections, sea and sky segmentations for each input image.
+In addition, ./viz_data is created with vizualization of person detections, sea and sky segmentations for each input image.  
 Log messages were saved at log.txt
 
 ## Details
